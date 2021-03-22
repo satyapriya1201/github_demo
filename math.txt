@@ -3,4 +3,9 @@ ambati
 done did
 super 
 common
+<<<<<<< HEAD
 write some code here
+=======
+write some code here
+some conflict may occure
+>>>>>>> boost
